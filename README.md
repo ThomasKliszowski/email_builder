@@ -26,12 +26,12 @@ Before using this app, you must launch few commands.
 Usage
 -----
 
-To launch the development environment, just enter this command:
+To launch the development environment:
 ```
 grunt server
 ```
 
-To build your template, by example `email_builder/templates/my_template.html`, just enter this command:
+To build your template, by example `email_builder/templates/my_template.html`:
 ```
 grunt build:my_template
 ```
