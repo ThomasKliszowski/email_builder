@@ -1,9 +1,9 @@
 {
     "remote": {
-        "active": false,
-        "url": "http://my_remote_url.com/email_builder/",
-        "host": "user@my_remote_url.com",
-        "path": "/path/to/hosted/files/email_builder/"
+        "active": true,
+        "url": "http://medias.elsaguilitch.fr/email_builder/",
+        "host": "elsa@elsaguilitch.fr",
+        "path": "/home/served_medias/elsa/email_builder/"
     },
     "less_files": {
         "email_builder/builds/my_template.css": "email_builder/less/my_template.less"

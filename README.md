@@ -1,7 +1,7 @@
 Email Builder
 =============
 
-Build email templates easily and quickly, using GruntJS.
+Build email templates easily and quickly, using GruntJS -http://gruntjs.com/ and Ink - http://zurb.com/ink/ (optional).
 
 Installation
 ------------
