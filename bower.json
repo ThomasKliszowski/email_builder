@@ -1,0 +1,7 @@
+{
+  "name": "email_builder",
+  "version": "0.0.0",
+  "dependencies": {
+    "ink": "~1.0.5"
+  }
+}

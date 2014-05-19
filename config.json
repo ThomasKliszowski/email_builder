@@ -1,0 +1,11 @@
+{
+    "remote": {
+        "active": false,
+        "url": "http://my_remote_url.com/email_builder/",
+        "host": "user@my_remote_url.com",
+        "path": "/path/to/hosted/files/email_builder/"
+    },
+    "less_files": {
+        "email_builder/builds/my_template.css": "email_builder/less/my_template.less"
+    }
+}
