@@ -8,7 +8,7 @@ Installation
 
 Before using this app, you must launch few commands.
 
-1.  Ensure that you have NodeJS installed.
+1.  Ensure that you have NodeJS installed, e.g. on Mac OSX:
     ```
     brew install nodejs
     ```
